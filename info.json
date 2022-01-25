@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 819.3529000000001,
+    "videos": [
         "James Blunt - Goodbye My Lover [OFFICIAL VIDEO]-wVyggTKDcOE.mp4",
         "José José - Te Quiero Tal Como Eres (Cover Audio)-9FB_y_Z_uBM.mp4",
         "Johnny Burnette - Rock Away Baby-Fyh8pUU5Egc.mp4",
@@ -79,7 +80,5 @@
         "Johnny Burnette - Crazy Legs-CBZM8uisl7U.mp4",
         "Jose Feliciano - La Carcel De Sing Sing-BuNTkJMmSBA.mp4",
         "Johnny Sorrow ~ Les 'Carrot Top' Anderson (1958) (Country & Western)-aeYRNg5oi3A.mp4"
-    ],
-    "id": "j",
-    "total_size": 781.3960205078129
+    ]
 }
