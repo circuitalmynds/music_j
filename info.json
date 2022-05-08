@@ -302,6 +302,11 @@
             "size": 6.83685376
         },
         {
+            "name": "The Bolshoi - Away-4FzFu-ze8pA.mp4",
+            "path": "music_j/videos/The Bolshoi - Away-4FzFu-ze8pA.mp4",
+            "size": 16.226487296000002
+        },
+        {
             "name": "Joaquín Sabina - Dieguitos y Mafaldas (Directo)-mvrP5Rp8P0I.mp4",
             "path": "music_j/videos/Joaquín Sabina - Dieguitos y Mafaldas (Directo)-mvrP5Rp8P0I.mp4",
             "size": 28.890032128
@@ -402,5 +407,5 @@
             "size": 5.808717824
         }
     ],
-    "total_size": 849.5708723200004
+    "total_size": 865.7973596160003
 }
