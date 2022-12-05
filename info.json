@@ -1,589 +1,657 @@
 {
-    "available_space": true,
+    "available_space": false,
     "content": [
         {
-            "filename": "Jos\u00e9 Jos\u00e9 - Una Ma\u00f1ana (1969) (Audio HD)-l3NgDOWxRV8.mp4",
             "id": "l3NgDOWxRV8",
+            "name": "Jos\u00e9 Jos\u00e9 - Una Ma\u00f1ana (1969) (Audio HD)-l3NgDOWxRV8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jos\u00e9 Jos\u00e9 - Una Ma\u00f1ana (1969) (Audio HD)-l3NgDOWxRV8.mp4",
             "size": 6.527766,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jos\u00e9 Jos\u00e9 - Una Ma\u00f1ana (1969) (Audio HD)-l3NgDOWxRV8.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jos\u00e9 Jos\u00e9 - Una Ma\u00f1ana (1969) (Audio HD)-l3NgDOWxRV8.mp4?raw=true"
         },
         {
-            "filename": "Johnny Burnette Trio - Rock Therapy-AMkBEpI6s7I.mp4",
             "id": "AMkBEpI6s7I",
+            "name": "Johnny Burnette Trio - Rock Therapy-AMkBEpI6s7I.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Burnette Trio - Rock Therapy-AMkBEpI6s7I.mp4",
             "size": 5.85835,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Burnette Trio - Rock Therapy-AMkBEpI6s7I.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette Trio - Rock Therapy-AMkBEpI6s7I.mp4?raw=true"
         },
         {
-            "filename": "Jakeka - Asesino en la cima-LNhje27uZNA.mp4",
             "id": "LNhje27uZNA",
+            "name": "Jakeka - Asesino en la cima-LNhje27uZNA.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jakeka - Asesino en la cima-LNhje27uZNA.mp4",
             "size": 5.744819,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jakeka - Asesino en la cima-LNhje27uZNA.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jakeka - Asesino en la cima-LNhje27uZNA.mp4?raw=true"
         },
         {
-            "filename": "Conjunto Primavera - Empaca Tus Cosas-Tsd1hINrkbU.mp4",
             "id": "Tsd1hINrkbU",
+            "name": "Conjunto Primavera - Empaca Tus Cosas-Tsd1hINrkbU.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Conjunto Primavera - Empaca Tus Cosas-Tsd1hINrkbU.mp4",
             "size": 14.315152999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Conjunto Primavera - Empaca Tus Cosas-Tsd1hINrkbU.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Conjunto Primavera - Empaca Tus Cosas-Tsd1hINrkbU.mp4?raw=true"
         },
         {
-            "filename": "Juan Cirerol - Sentimental (Cover a Joan Sebastian)-9OBC9p2Cxfw.mp4",
             "id": "9OBC9p2Cxfw",
+            "name": "Juan Cirerol - Sentimental (Cover a Joan Sebastian)-9OBC9p2Cxfw.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Juan Cirerol - Sentimental (Cover a Joan Sebastian)-9OBC9p2Cxfw.mp4",
             "size": 15.902752,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Juan Cirerol - Sentimental (Cover a Joan Sebastian)-9OBC9p2Cxfw.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Juan Cirerol - Sentimental (Cover a Joan Sebastian)-9OBC9p2Cxfw.mp4?raw=true"
         },
         {
-            "filename": "Julieta y el general-Sg5GvAgFF9g.mp4",
             "id": "Sg5GvAgFF9g",
+            "name": "Julieta y el general-Sg5GvAgFF9g.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Julieta y el general-Sg5GvAgFF9g.mp4",
             "size": 8.101125,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Julieta y el general-Sg5GvAgFF9g.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Julieta y el general-Sg5GvAgFF9g.mp4?raw=true"
         },
         {
-            "filename": "Johnny Cash-Greystone Chapel-8uVsMxfN7QQ.mp4",
             "id": "8uVsMxfN7QQ",
+            "name": "Johnny Cash-Greystone Chapel-8uVsMxfN7QQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Cash-Greystone Chapel-8uVsMxfN7QQ.mp4",
             "size": 4.209447,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Cash-Greystone Chapel-8uVsMxfN7QQ.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Cash-Greystone Chapel-8uVsMxfN7QQ.mp4?raw=true"
         },
         {
-            "filename": "Johnny Cash - Dirty Old Egg Sucking Dog-vYNK8A_bXwA.mp4",
             "id": "vYNK8A_bXwA",
+            "name": "Johnny Cash - Dirty Old Egg Sucking Dog-vYNK8A_bXwA.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Cash - Dirty Old Egg Sucking Dog-vYNK8A_bXwA.mp4",
             "size": 2.872565,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Cash - Dirty Old Egg Sucking Dog-vYNK8A_bXwA.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Cash - Dirty Old Egg Sucking Dog-vYNK8A_bXwA.mp4?raw=true"
         },
         {
-            "filename": "Jos\u00e9 Mar\u00eda Napole\u00f3n - Amor De Habitaci\u00f3n-ACvS51cCbH4.mp4",
             "id": "ACvS51cCbH4",
+            "name": "Jos\u00e9 Mar\u00eda Napole\u00f3n - Amor De Habitaci\u00f3n-ACvS51cCbH4.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jos\u00e9 Mar\u00eda Napole\u00f3n - Amor De Habitaci\u00f3n-ACvS51cCbH4.mp4",
             "size": 16.293149,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jos\u00e9 Mar\u00eda Napole\u00f3n - Amor De Habitaci\u00f3n-ACvS51cCbH4.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jos\u00e9 Mar\u00eda Napole\u00f3n - Amor De Habitaci\u00f3n-ACvS51cCbH4.mp4?raw=true"
         },
         {
-            "filename": "Julio Iglesias - Con la misma piedra-i7ZAS-dkIbA.mp4",
             "id": "i7ZAS-dkIbA",
+            "name": "Julio Iglesias - Con la misma piedra-i7ZAS-dkIbA.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Julio Iglesias - Con la misma piedra-i7ZAS-dkIbA.mp4",
             "size": 13.291518,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Julio Iglesias - Con la misma piedra-i7ZAS-dkIbA.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Julio Iglesias - Con la misma piedra-i7ZAS-dkIbA.mp4?raw=true"
         },
         {
-            "filename": "Jos\u00e9 Jos\u00e9 - Lo Que No Fue No Ser\u00e1 (Revisitado [Lyric Video])-lCUnsPvJMWg.mp4",
+            "id": "Ea6PxZ6G1pQ",
+            "name": "1940 Louis Levy - Walt Disney Medley (Parts 1 & 2) (instrumental)-Ea6PxZ6G1pQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/j/videos/1940 Louis Levy - Walt Disney Medley (Parts 1 & 2) (instrumental)-Ea6PxZ6G1pQ.mp4",
+            "size": 9.577347,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/1940 Louis Levy - Walt Disney Medley (Parts 1 & 2) (instrumental)-Ea6PxZ6G1pQ.mp4?raw=true"
+        },
+        {
+            "id": "7COchn_j6jM",
+            "name": "Liszt, Verdi - Ernani - Concert Paraphrase, S.432-7COchn_j6jM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/j/videos/Liszt, Verdi - Ernani - Concert Paraphrase, S.432-7COchn_j6jM.mp4",
+            "size": 5.613293,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Liszt, Verdi - Ernani - Concert Paraphrase, S.432-7COchn_j6jM.mp4?raw=true"
+        },
+        {
             "id": "lCUnsPvJMWg",
+            "name": "Jos\u00e9 Jos\u00e9 - Lo Que No Fue No Ser\u00e1 (Revisitado [Lyric Video])-lCUnsPvJMWg.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jos\u00e9 Jos\u00e9 - Lo Que No Fue No Ser\u00e1 (Revisitado [Lyric Video])-lCUnsPvJMWg.mp4",
             "size": 10.510010999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jos\u00e9 Jos\u00e9 - Lo Que No Fue No Ser\u00e1 (Revisitado [Lyric Video])-lCUnsPvJMWg.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jos\u00e9 Jos\u00e9 - Lo Que No Fue No Ser\u00e1 (Revisitado [Lyric Video])-lCUnsPvJMWg.mp4?raw=true"
         },
         {
-            "filename": "JOSE LUIS RODRIGUEZ  EL PUMA    ESTE AMOR ES UN SUE\u00d1O DE LOCOS-znDwHwjqLnM.mp4",
             "id": "znDwHwjqLnM",
+            "name": "JOSE LUIS RODRIGUEZ  EL PUMA    ESTE AMOR ES UN SUE\u00d1O DE LOCOS-znDwHwjqLnM.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/JOSE LUIS RODRIGUEZ  EL PUMA    ESTE AMOR ES UN SUE\u00d1O DE LOCOS-znDwHwjqLnM.mp4",
             "size": 18.523925,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/JOSE LUIS RODRIGUEZ  EL PUMA    ESTE AMOR ES UN SUE\u00d1O DE LOCOS-znDwHwjqLnM.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/JOSE LUIS RODRIGUEZ  EL PUMA    ESTE AMOR ES UN SUE\u00d1O DE LOCOS-znDwHwjqLnM.mp4?raw=true"
         },
         {
-            "filename": "Jose Luis Rodriguez - Voy a perder la cabeza por tu amor-bNQg2N9Ifsk.mp4",
             "id": "bNQg2N9Ifsk",
+            "name": "Jose Luis Rodriguez - Voy a perder la cabeza por tu amor-bNQg2N9Ifsk.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jose Luis Rodriguez - Voy a perder la cabeza por tu amor-bNQg2N9Ifsk.mp4",
             "size": 8.282261,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jose Luis Rodriguez - Voy a perder la cabeza por tu amor-bNQg2N9Ifsk.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jose Luis Rodriguez - Voy a perder la cabeza por tu amor-bNQg2N9Ifsk.mp4?raw=true"
         },
         {
-            "filename": "Just Married ~ Marty Robbins  (1958)-D8Wmnv1wAOc.mp4",
             "id": "D8Wmnv1wAOc",
+            "name": "Just Married ~ Marty Robbins  (1958)-D8Wmnv1wAOc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Just Married ~ Marty Robbins  (1958)-D8Wmnv1wAOc.mp4",
             "size": 6.437951,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Just Married ~ Marty Robbins  (1958)-D8Wmnv1wAOc.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Just Married ~ Marty Robbins  (1958)-D8Wmnv1wAOc.mp4?raw=true"
         },
         {
-            "filename": "Julio Iglesias - Lo mejor de tu vida-AzRId5OGyIY.mp4",
             "id": "AzRId5OGyIY",
+            "name": "Julio Iglesias - Lo mejor de tu vida-AzRId5OGyIY.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Julio Iglesias - Lo mejor de tu vida-AzRId5OGyIY.mp4",
             "size": 11.538731,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Julio Iglesias - Lo mejor de tu vida-AzRId5OGyIY.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Julio Iglesias - Lo mejor de tu vida-AzRId5OGyIY.mp4?raw=true"
         },
         {
-            "filename": "Johnny Burnette - Crazy Legs-CBZM8uisl7U.mp4",
             "id": "CBZM8uisl7U",
+            "name": "Johnny Burnette - Crazy Legs-CBZM8uisl7U.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Burnette - Crazy Legs-CBZM8uisl7U.mp4",
             "size": 2.892449,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Burnette - Crazy Legs-CBZM8uisl7U.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette - Crazy Legs-CBZM8uisl7U.mp4?raw=true"
         },
         {
-            "filename": "Johnny Burnette - Me And The Bear (with Eddie Cochran)-3zSpHq3ihTQ.mp4",
+            "id": "28t_ojI4TJM",
+            "name": "Isle of Capri Barber Chis 1994-28t_ojI4TJM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/j/videos/Isle of Capri Barber Chis 1994-28t_ojI4TJM.mp4",
+            "size": 10.136806,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Isle of Capri Barber Chis 1994-28t_ojI4TJM.mp4?raw=true"
+        },
+        {
             "id": "3zSpHq3ihTQ",
+            "name": "Johnny Burnette - Me And The Bear (with Eddie Cochran)-3zSpHq3ihTQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Burnette - Me And The Bear (with Eddie Cochran)-3zSpHq3ihTQ.mp4",
             "size": 4.698188,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Burnette - Me And The Bear (with Eddie Cochran)-3zSpHq3ihTQ.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette - Me And The Bear (with Eddie Cochran)-3zSpHq3ihTQ.mp4?raw=true"
         },
         {
-            "filename": "Johnny Cash - Cocaine Blues-Aq344ks1ieg.mp4",
             "id": "Aq344ks1ieg",
+            "name": "Johnny Cash - Cocaine Blues-Aq344ks1ieg.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Cash - Cocaine Blues-Aq344ks1ieg.mp4",
             "size": 4.075559999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Cash - Cocaine Blues-Aq344ks1ieg.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Cash - Cocaine Blues-Aq344ks1ieg.mp4?raw=true"
         },
         {
-            "filename": "James Blunt - Goodbye My Lover [OFFICIAL VIDEO]-wVyggTKDcOE.mp4",
             "id": "wVyggTKDcOE",
+            "name": "James Blunt - Goodbye My Lover [OFFICIAL VIDEO]-wVyggTKDcOE.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/James Blunt - Goodbye My Lover [OFFICIAL VIDEO]-wVyggTKDcOE.mp4",
             "size": 10.761249,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/James Blunt - Goodbye My Lover [OFFICIAL VIDEO]-wVyggTKDcOE.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/James Blunt - Goodbye My Lover [OFFICIAL VIDEO]-wVyggTKDcOE.mp4?raw=true"
         },
         {
-            "filename": "Jose Jose Gavilan o Paloma-nL4yaQNhOnc.mp4",
             "id": "nL4yaQNhOnc",
+            "name": "Jose Jose Gavilan o Paloma-nL4yaQNhOnc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jose Jose Gavilan o Paloma-nL4yaQNhOnc.mp4",
             "size": 6.686725,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jose Jose Gavilan o Paloma-nL4yaQNhOnc.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jose Jose Gavilan o Paloma-nL4yaQNhOnc.mp4?raw=true"
         },
         {
-            "filename": "Joan Sebastian Verdad Que Duele-cqvgTJWEuec.mp4",
             "id": "cqvgTJWEuec",
+            "name": "Joan Sebastian Verdad Que Duele-cqvgTJWEuec.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Joan Sebastian Verdad Que Duele-cqvgTJWEuec.mp4",
             "size": 4.033466,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Joan Sebastian Verdad Que Duele-cqvgTJWEuec.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Joan Sebastian Verdad Que Duele-cqvgTJWEuec.mp4?raw=true"
         },
         {
-            "filename": "Jos\u00e9 Jos\u00e9 - Lo Pasado Pasado-oObpxzkul3k.mp4",
             "id": "oObpxzkul3k",
+            "name": "Jos\u00e9 Jos\u00e9 - Lo Pasado Pasado-oObpxzkul3k.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jos\u00e9 Jos\u00e9 - Lo Pasado Pasado-oObpxzkul3k.mp4",
             "size": 10.053485,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jos\u00e9 Jos\u00e9 - Lo Pasado Pasado-oObpxzkul3k.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jos\u00e9 Jos\u00e9 - Lo Pasado Pasado-oObpxzkul3k.mp4?raw=true"
         },
         {
-            "filename": "John Petrucci - Purple Rain (Live at Musicians Institute 1998)-nPpdfhLZzCY.mp4",
             "id": "nPpdfhLZzCY",
+            "name": "John Petrucci - Purple Rain (Live at Musicians Institute 1998)-nPpdfhLZzCY.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/John Petrucci - Purple Rain (Live at Musicians Institute 1998)-nPpdfhLZzCY.mp4",
             "size": 27.970885,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/John Petrucci - Purple Rain (Live at Musicians Institute 1998)-nPpdfhLZzCY.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/John Petrucci - Purple Rain (Live at Musicians Institute 1998)-nPpdfhLZzCY.mp4?raw=true"
         },
         {
-            "filename": "The Bolshoi - Away-4FzFu-ze8pA.mp4",
             "id": "4FzFu-ze8pA",
+            "name": "The Bolshoi - Away-4FzFu-ze8pA.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/The Bolshoi - Away-4FzFu-ze8pA.mp4",
             "size": 15.846179,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/The Bolshoi - Away-4FzFu-ze8pA.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/The Bolshoi - Away-4FzFu-ze8pA.mp4?raw=true"
         },
         {
-            "filename": "John Mayer - Back To You (Acoustic)-3oPe9vkM-EQ.mp4",
             "id": "3oPe9vkM-EQ",
+            "name": "John Mayer - Back To You (Acoustic)-3oPe9vkM-EQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/John Mayer - Back To You (Acoustic)-3oPe9vkM-EQ.mp4",
             "size": 6.279481,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/John Mayer - Back To You (Acoustic)-3oPe9vkM-EQ.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/John Mayer - Back To You (Acoustic)-3oPe9vkM-EQ.mp4?raw=true"
         },
         {
-            "filename": "Juanes - Es Por Ti (Official Music Video)--9l5t3MWss8.mp4",
             "id": "-9l5t3MWss8",
+            "name": "Juanes - Es Por Ti (Official Music Video)--9l5t3MWss8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Juanes - Es Por Ti (Official Music Video)--9l5t3MWss8.mp4",
             "size": 16.105256,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Juanes - Es Por Ti (Official Music Video)--9l5t3MWss8.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Juanes - Es Por Ti (Official Music Video)--9l5t3MWss8.mp4?raw=true"
         },
         {
-            "filename": "Johnny Burnette - You Gotta Get Ready-EWlcHaaquPE.mp4",
             "id": "EWlcHaaquPE",
+            "name": "Johnny Burnette - You Gotta Get Ready-EWlcHaaquPE.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Burnette - You Gotta Get Ready-EWlcHaaquPE.mp4",
             "size": 3.473147,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Burnette - You Gotta Get Ready-EWlcHaaquPE.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette - You Gotta Get Ready-EWlcHaaquPE.mp4?raw=true"
         },
         {
-            "filename": "Jackie Mittoo - Hang Em High-VS8QRx5Cjoo.mp4",
             "id": "VS8QRx5Cjoo",
+            "name": "Jackie Mittoo - Hang Em High-VS8QRx5Cjoo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jackie Mittoo - Hang Em High-VS8QRx5Cjoo.mp4",
             "size": 9.560887,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jackie Mittoo - Hang Em High-VS8QRx5Cjoo.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jackie Mittoo - Hang Em High-VS8QRx5Cjoo.mp4?raw=true"
         },
         {
-            "filename": "Johnny Cash - Busted--yEAv56kC1k.mp4",
             "id": "-yEAv56kC1k",
+            "name": "Johnny Cash - Busted--yEAv56kC1k.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Cash - Busted--yEAv56kC1k.mp4",
             "size": 4.109686,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Cash - Busted--yEAv56kC1k.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Cash - Busted--yEAv56kC1k.mp4?raw=true"
         },
         {
-            "filename": "Joaqu\u00edn Sabina - Dieguitos y Mafaldas (Directo)-mvrP5Rp8P0I.mp4",
+            "id": "okUVzB8K7RA",
+            "name": "Debussy  - Sonata per flauto, viola e arpa-okUVzB8K7RA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/j/videos/Debussy  - Sonata per flauto, viola e arpa-okUVzB8K7RA.mp4",
+            "size": 24.429022999999997,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Debussy  - Sonata per flauto, viola e arpa-okUVzB8K7RA.mp4?raw=true"
+        },
+        {
             "id": "mvrP5Rp8P0I",
+            "name": "Joaqu\u00edn Sabina - Dieguitos y Mafaldas (Directo)-mvrP5Rp8P0I.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Joaqu\u00edn Sabina - Dieguitos y Mafaldas (Directo)-mvrP5Rp8P0I.mp4",
             "size": 28.212922,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Joaqu\u00edn Sabina - Dieguitos y Mafaldas (Directo)-mvrP5Rp8P0I.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Joaqu\u00edn Sabina - Dieguitos y Mafaldas (Directo)-mvrP5Rp8P0I.mp4?raw=true"
         },
         {
-            "filename": "johnny burnette   little girl ( kiss me sweet )-cwxOhYGRvDs.mp4",
             "id": "cwxOhYGRvDs",
+            "name": "johnny burnette   little girl ( kiss me sweet )-cwxOhYGRvDs.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/johnny burnette   little girl ( kiss me sweet )-cwxOhYGRvDs.mp4",
             "size": 1.9641819999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/johnny burnette   little girl ( kiss me sweet )-cwxOhYGRvDs.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/johnny burnette   little girl ( kiss me sweet )-cwxOhYGRvDs.mp4?raw=true"
         },
         {
-            "filename": "Julio Iglesias - A flor de piel-vPTT3CBM8_s.mp4",
             "id": "vPTT3CBM8_s",
+            "name": "Julio Iglesias - A flor de piel-vPTT3CBM8_s.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Julio Iglesias - A flor de piel-vPTT3CBM8_s.mp4",
             "size": 9.022703,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Julio Iglesias - A flor de piel-vPTT3CBM8_s.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Julio Iglesias - A flor de piel-vPTT3CBM8_s.mp4?raw=true"
         },
         {
-            "filename": "Johnny Cash - Folsom Prison Blues - Live at San Quentin (Good sound quality)-wG0fS4DoGUc.mp4",
+            "id": "F-yoGf8xW3s",
+            "name": "No Fuss No Fight-F-yoGf8xW3s.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/j/videos/No Fuss No Fight-F-yoGf8xW3s.mp4",
+            "size": 4.048872,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/No Fuss No Fight-F-yoGf8xW3s.mp4?raw=true"
+        },
+        {
+            "id": "yIKn4hz0A7I",
+            "name": "Argerich Abbado _ Ravel Piano Concerto in G-yIKn4hz0A7I.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/j/videos/Argerich Abbado _ Ravel Piano Concerto in G-yIKn4hz0A7I.mp4",
+            "size": 50.29644,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Argerich Abbado _ Ravel Piano Concerto in G-yIKn4hz0A7I.mp4?raw=true"
+        },
+        {
             "id": "wG0fS4DoGUc",
+            "name": "Johnny Cash - Folsom Prison Blues - Live at San Quentin (Good sound quality)-wG0fS4DoGUc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Cash - Folsom Prison Blues - Live at San Quentin (Good sound quality)-wG0fS4DoGUc.mp4",
             "size": 12.010555,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Cash - Folsom Prison Blues - Live at San Quentin (Good sound quality)-wG0fS4DoGUc.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Cash - Folsom Prison Blues - Live at San Quentin (Good sound quality)-wG0fS4DoGUc.mp4?raw=true"
         },
         {
-            "filename": "Johnny Cash-The Wall-bbrztQ6IFzM.mp4",
             "id": "bbrztQ6IFzM",
+            "name": "Johnny Cash-The Wall-bbrztQ6IFzM.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Cash-The Wall-bbrztQ6IFzM.mp4",
             "size": 2.825919,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Cash-The Wall-bbrztQ6IFzM.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Cash-The Wall-bbrztQ6IFzM.mp4?raw=true"
         },
         {
-            "filename": "Jowell y Randy - Hey Mister ft. Falo, Watussi, Los Pepe y Mr. Black (Remix) [Official Video]-GmIN5GJP9II.mp4",
             "id": "GmIN5GJP9II",
+            "name": "Jowell y Randy - Hey Mister ft. Falo, Watussi, Los Pepe y Mr. Black (Remix) [Official Video]-GmIN5GJP9II.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jowell y Randy - Hey Mister ft. Falo, Watussi, Los Pepe y Mr. Black (Remix) [Official Video]-GmIN5GJP9II.mp4",
             "size": 23.171298,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jowell y Randy - Hey Mister ft. Falo, Watussi, Los Pepe y Mr. Black (Remix) [Official Video]-GmIN5GJP9II.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jowell y Randy - Hey Mister ft. Falo, Watussi, Los Pepe y Mr. Black (Remix) [Official Video]-GmIN5GJP9II.mp4?raw=true"
         },
         {
-            "filename": "Juegas al pal\u00e9-e0FgX-mrgGY.mp4",
             "id": "e0FgX-mrgGY",
+            "name": "Juegas al pal\u00e9-e0FgX-mrgGY.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Juegas al pal\u00e9-e0FgX-mrgGY.mp4",
             "size": 5.560543,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Juegas al pal\u00e9-e0FgX-mrgGY.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Juegas al pal\u00e9-e0FgX-mrgGY.mp4?raw=true"
         },
         {
-            "filename": "John Mayer - Gravity [HD]-Fo4746XZgw8.mp4",
             "id": "Fo4746XZgw8",
+            "name": "John Mayer - Gravity [HD]-Fo4746XZgw8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/John Mayer - Gravity [HD]-Fo4746XZgw8.mp4",
             "size": 38.570537,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/John Mayer - Gravity [HD]-Fo4746XZgw8.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/John Mayer - Gravity [HD]-Fo4746XZgw8.mp4?raw=true"
         },
         {
-            "filename": "Jamie Grace - White Boots (feat. Morgan Harper Nichols) [Official Lyric Video]-y0Q0mw1zv4s.mp4",
             "id": "y0Q0mw1zv4s",
+            "name": "Jamie Grace - White Boots (feat. Morgan Harper Nichols) [Official Lyric Video]-y0Q0mw1zv4s.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jamie Grace - White Boots (feat. Morgan Harper Nichols) [Official Lyric Video]-y0Q0mw1zv4s.mp4",
             "size": 11.097297,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jamie Grace - White Boots (feat. Morgan Harper Nichols) [Official Lyric Video]-y0Q0mw1zv4s.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jamie Grace - White Boots (feat. Morgan Harper Nichols) [Official Lyric Video]-y0Q0mw1zv4s.mp4?raw=true"
         },
         {
-            "filename": "Alligator Wine-GL4exhfaun8.mp4",
             "id": "GL4exhfaun8",
+            "name": "Alligator Wine-GL4exhfaun8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Alligator Wine-GL4exhfaun8.mp4",
             "size": 5.25143,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Alligator Wine-GL4exhfaun8.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Alligator Wine-GL4exhfaun8.mp4?raw=true"
         },
         {
-            "filename": "Johnny Burnette Trio - Tear It Up-4etvFlAncDo.mp4",
+            "id": "zPsVJMZ7Teo",
+            "name": "Dee's Dilemma-zPsVJMZ7Teo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/j/videos/Dee's Dilemma-zPsVJMZ7Teo.mp4",
+            "size": 10.618642999999999,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Dee's Dilemma-zPsVJMZ7Teo.mp4?raw=true"
+        },
+        {
             "id": "4etvFlAncDo",
+            "name": "Johnny Burnette Trio - Tear It Up-4etvFlAncDo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Burnette Trio - Tear It Up-4etvFlAncDo.mp4",
             "size": 5.387701,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Burnette Trio - Tear It Up-4etvFlAncDo.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette Trio - Tear It Up-4etvFlAncDo.mp4?raw=true"
         },
         {
-            "filename": "Johnny Cash-Rock Island Line-FX1BPItDcDo.mp4",
+            "id": "AlMTYr15rvo",
+            "name": "Liszt - Es rauschen die Winde S.294-AlMTYr15rvo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/j/videos/Liszt - Es rauschen die Winde S.294-AlMTYr15rvo.mp4",
+            "size": 2.203242,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Liszt - Es rauschen die Winde S.294-AlMTYr15rvo.mp4?raw=true"
+        },
+        {
             "id": "FX1BPItDcDo",
+            "name": "Johnny Cash-Rock Island Line-FX1BPItDcDo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Cash-Rock Island Line-FX1BPItDcDo.mp4",
             "size": 3.7846309999999996,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Cash-Rock Island Line-FX1BPItDcDo.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Cash-Rock Island Line-FX1BPItDcDo.mp4?raw=true"
         },
         {
-            "filename": "Joan Manuel Serrat - Esos locos bajitos-ki6GEcteLao.mp4",
             "id": "ki6GEcteLao",
+            "name": "Joan Manuel Serrat - Esos locos bajitos-ki6GEcteLao.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Joan Manuel Serrat - Esos locos bajitos-ki6GEcteLao.mp4",
             "size": 13.445718999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Joan Manuel Serrat - Esos locos bajitos-ki6GEcteLao.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Joan Manuel Serrat - Esos locos bajitos-ki6GEcteLao.mp4?raw=true"
         },
         {
-            "filename": "Johnny Burnette Trio-Train Kept A Rollin'-VkZhJJ8sPmw.mp4",
             "id": "VkZhJJ8sPmw",
+            "name": "Johnny Burnette Trio-Train Kept A Rollin'-VkZhJJ8sPmw.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Burnette Trio-Train Kept A Rollin'-VkZhJJ8sPmw.mp4",
             "size": 11.929891,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Burnette Trio-Train Kept A Rollin'-VkZhJJ8sPmw.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette Trio-Train Kept A Rollin'-VkZhJJ8sPmw.mp4?raw=true"
         },
         {
-            "filename": "Joe Bonamassa Official - 'Let Me Love You Baby' - British Blues Explosion Live-lS3STNHQ3Ac.mp4",
             "id": "lS3STNHQ3Ac",
+            "name": "Joe Bonamassa Official - 'Let Me Love You Baby' - British Blues Explosion Live-lS3STNHQ3Ac.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Joe Bonamassa Official - 'Let Me Love You Baby' - British Blues Explosion Live-lS3STNHQ3Ac.mp4",
             "size": 25.68358,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Joe Bonamassa Official - 'Let Me Love You Baby' - British Blues Explosion Live-lS3STNHQ3Ac.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Joe Bonamassa Official - 'Let Me Love You Baby' - British Blues Explosion Live-lS3STNHQ3Ac.mp4?raw=true"
         },
         {
-            "filename": "Jackie Mittoo _ Too Late To Turn Back Now-YOapNGdzwKg.mp4",
+            "id": "0NfQmoouvTY",
+            "name": "I Know You Know-0NfQmoouvTY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/j/videos/I Know You Know-0NfQmoouvTY.mp4",
+            "size": 2.015033,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/I Know You Know-0NfQmoouvTY.mp4?raw=true"
+        },
+        {
             "id": "YOapNGdzwKg",
+            "name": "Jackie Mittoo _ Too Late To Turn Back Now-YOapNGdzwKg.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jackie Mittoo _ Too Late To Turn Back Now-YOapNGdzwKg.mp4",
             "size": 9.211556999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jackie Mittoo _ Too Late To Turn Back Now-YOapNGdzwKg.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jackie Mittoo _ Too Late To Turn Back Now-YOapNGdzwKg.mp4?raw=true"
         },
         {
-            "filename": "Jo\u00e3o Gilberto - 37 - Manh\u00e3 de Carnaval-zKdtORxIIGA.mp4",
             "id": "zKdtORxIIGA",
+            "name": "Jo\u00e3o Gilberto - 37 - Manh\u00e3 de Carnaval-zKdtORxIIGA.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jo\u00e3o Gilberto - 37 - Manh\u00e3 de Carnaval-zKdtORxIIGA.mp4",
             "size": 3.8029539999999997,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jo\u00e3o Gilberto - 37 - Manh\u00e3 de Carnaval-zKdtORxIIGA.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jo\u00e3o Gilberto - 37 - Manh\u00e3 de Carnaval-zKdtORxIIGA.mp4?raw=true"
         },
         {
-            "filename": "Beethoven Sonata No. 8 in C minor Op. 13 'Path\u00e9tique' Live - Lisitsa-qO8yfBLNVjU.mp4",
             "id": "qO8yfBLNVjU",
+            "name": "Beethoven Sonata No. 8 in C minor Op. 13 'Path\u00e9tique' Live - Lisitsa-qO8yfBLNVjU.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Beethoven Sonata No. 8 in C minor Op. 13 'Path\u00e9tique' Live - Lisitsa-qO8yfBLNVjU.mp4",
             "size": 41.3883,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Beethoven Sonata No. 8 in C minor Op. 13 'Path\u00e9tique' Live - Lisitsa-qO8yfBLNVjU.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Beethoven Sonata No. 8 in C minor Op. 13 'Path\u00e9tique' Live - Lisitsa-qO8yfBLNVjU.mp4?raw=true"
         },
         {
-            "filename": "Julio Iglesias - La vida sigue igual-aZAA73tWdoQ.mp4",
             "id": "aZAA73tWdoQ",
+            "name": "Julio Iglesias - La vida sigue igual-aZAA73tWdoQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Julio Iglesias - La vida sigue igual-aZAA73tWdoQ.mp4",
             "size": 8.983912,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Julio Iglesias - La vida sigue igual-aZAA73tWdoQ.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Julio Iglesias - La vida sigue igual-aZAA73tWdoQ.mp4?raw=true"
         },
         {
-            "filename": "Joan Manuel Serrat- Cantares (Caminante, no hay camino, se hace camino al andar).-QHcypSLIp_A.mp4",
             "id": "QHcypSLIp_A",
+            "name": "Joan Manuel Serrat- Cantares (Caminante, no hay camino, se hace camino al andar).-QHcypSLIp_A.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Joan Manuel Serrat- Cantares (Caminante, no hay camino, se hace camino al andar).-QHcypSLIp_A.mp4",
             "size": 16.769242,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Joan Manuel Serrat- Cantares (Caminante, no hay camino, se hace camino al andar).-QHcypSLIp_A.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Joan Manuel Serrat- Cantares (Caminante, no hay camino, se hace camino al andar).-QHcypSLIp_A.mp4?raw=true"
         },
         {
-            "filename": "James Blunt - Same Mistake  (video)-b3c32wBYdU0.mp4",
             "id": "b3c32wBYdU0",
+            "name": "James Blunt - Same Mistake  (video)-b3c32wBYdU0.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/James Blunt - Same Mistake  (video)-b3c32wBYdU0.mp4",
             "size": 20.057171999999998,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/James Blunt - Same Mistake  (video)-b3c32wBYdU0.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/James Blunt - Same Mistake  (video)-b3c32wBYdU0.mp4?raw=true"
         },
         {
-            "filename": "Johnny Burnette - Your Baby Blue Eyes-IOrWZk3c360.mp4",
             "id": "IOrWZk3c360",
+            "name": "Johnny Burnette - Your Baby Blue Eyes-IOrWZk3c360.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Burnette - Your Baby Blue Eyes-IOrWZk3c360.mp4",
             "size": 6.931184,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Burnette - Your Baby Blue Eyes-IOrWZk3c360.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette - Your Baby Blue Eyes-IOrWZk3c360.mp4?raw=true"
         },
         {
-            "filename": "Julio Iglesias - De ni\u00f1a a mujer-E12HzANr3pM.mp4",
             "id": "E12HzANr3pM",
+            "name": "Julio Iglesias - De ni\u00f1a a mujer-E12HzANr3pM.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Julio Iglesias - De ni\u00f1a a mujer-E12HzANr3pM.mp4",
             "size": 8.595699999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Julio Iglesias - De ni\u00f1a a mujer-E12HzANr3pM.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Julio Iglesias - De ni\u00f1a a mujer-E12HzANr3pM.mp4?raw=true"
         },
         {
-            "filename": "Jenni Rivera - No Llega El Olvido-2axZczJz-qg.mp4",
             "id": "2axZczJz-qg",
+            "name": "Jenni Rivera - No Llega El Olvido-2axZczJz-qg.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jenni Rivera - No Llega El Olvido-2axZczJz-qg.mp4",
             "size": 8.566955,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jenni Rivera - No Llega El Olvido-2axZczJz-qg.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jenni Rivera - No Llega El Olvido-2axZczJz-qg.mp4?raw=true"
         },
         {
-            "filename": "John Mayer - Daughters (Live at the Nokia Theatre - Video - PCM Stereo)-APh3jv7j8sU.mp4",
             "id": "APh3jv7j8sU",
+            "name": "John Mayer - Daughters (Live at the Nokia Theatre - Video - PCM Stereo)-APh3jv7j8sU.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/John Mayer - Daughters (Live at the Nokia Theatre - Video - PCM Stereo)-APh3jv7j8sU.mp4",
             "size": 18.167817,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/John Mayer - Daughters (Live at the Nokia Theatre - Video - PCM Stereo)-APh3jv7j8sU.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/John Mayer - Daughters (Live at the Nokia Theatre - Video - PCM Stereo)-APh3jv7j8sU.mp4?raw=true"
         },
         {
-            "filename": "Johnny Burnette - Rock Away Baby-Fyh8pUU5Egc.mp4",
             "id": "Fyh8pUU5Egc",
+            "name": "Johnny Burnette - Rock Away Baby-Fyh8pUU5Egc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Burnette - Rock Away Baby-Fyh8pUU5Egc.mp4",
             "size": 2.641248,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Burnette - Rock Away Baby-Fyh8pUU5Egc.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette - Rock Away Baby-Fyh8pUU5Egc.mp4?raw=true"
         },
         {
-            "filename": "Jawbreaker-R5JogHxnH-8.mp4",
             "id": "R5JogHxnH-8",
+            "name": "Jawbreaker-R5JogHxnH-8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jawbreaker-R5JogHxnH-8.mp4",
             "size": 4.602689,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jawbreaker-R5JogHxnH-8.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jawbreaker-R5JogHxnH-8.mp4?raw=true"
         },
         {
-            "filename": "Johnny Cash - The Long Black Veil-5pYA46dyKh4.mp4",
             "id": "5pYA46dyKh4",
+            "name": "Johnny Cash - The Long Black Veil-5pYA46dyKh4.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Cash - The Long Black Veil-5pYA46dyKh4.mp4",
             "size": 5.501701,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Cash - The Long Black Veil-5pYA46dyKh4.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Cash - The Long Black Veil-5pYA46dyKh4.mp4?raw=true"
         },
         {
-            "filename": "Johnny Burnette - Wampus Cat-AEA7WtrGRTI.mp4",
             "id": "AEA7WtrGRTI",
+            "name": "Johnny Burnette - Wampus Cat-AEA7WtrGRTI.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Burnette - Wampus Cat-AEA7WtrGRTI.mp4",
             "size": 2.081296,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Burnette - Wampus Cat-AEA7WtrGRTI.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette - Wampus Cat-AEA7WtrGRTI.mp4?raw=true"
         },
         {
-            "filename": "Jos\u00e9 Jos\u00e9 - Te Quiero Tal Como Eres (Cover Audio)-9FB_y_Z_uBM.mp4",
             "id": "9FB_y_Z_uBM",
+            "name": "Jos\u00e9 Jos\u00e9 - Te Quiero Tal Como Eres (Cover Audio)-9FB_y_Z_uBM.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jos\u00e9 Jos\u00e9 - Te Quiero Tal Como Eres (Cover Audio)-9FB_y_Z_uBM.mp4",
             "size": 7.452601,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jos\u00e9 Jos\u00e9 - Te Quiero Tal Como Eres (Cover Audio)-9FB_y_Z_uBM.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jos\u00e9 Jos\u00e9 - Te Quiero Tal Como Eres (Cover Audio)-9FB_y_Z_uBM.mp4?raw=true"
         },
         {
-            "filename": "Johnny Cash - The Man Comes Around-HC_vxYDZkLc.mp4",
             "id": "HC_vxYDZkLc",
+            "name": "Johnny Cash - The Man Comes Around-HC_vxYDZkLc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Cash - The Man Comes Around-HC_vxYDZkLc.mp4",
             "size": 4.624331,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Cash - The Man Comes Around-HC_vxYDZkLc.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Cash - The Man Comes Around-HC_vxYDZkLc.mp4?raw=true"
         },
         {
-            "filename": "Jackie Mittoo - Mother Funk-5dXcBg-g-_M.mp4",
+            "id": "cpleNCuWNL0",
+            "name": "San Francisco El Grande (Remastered)-cpleNCuWNL0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/j/videos/San Francisco El Grande (Remastered)-cpleNCuWNL0.mp4",
+            "size": 6.679062,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/San Francisco El Grande (Remastered)-cpleNCuWNL0.mp4?raw=true"
+        },
+        {
             "id": "5dXcBg-g-_M",
+            "name": "Jackie Mittoo - Mother Funk-5dXcBg-g-_M.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jackie Mittoo - Mother Funk-5dXcBg-g-_M.mp4",
             "size": 6.676615,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jackie Mittoo - Mother Funk-5dXcBg-g-_M.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jackie Mittoo - Mother Funk-5dXcBg-g-_M.mp4?raw=true"
         },
         {
-            "filename": "Johnny Burnette - Boppin' Rock-3TaUIzg-R8k.mp4",
             "id": "3TaUIzg-R8k",
+            "name": "Johnny Burnette - Boppin' Rock-3TaUIzg-R8k.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Burnette - Boppin' Rock-3TaUIzg-R8k.mp4",
             "size": 3.551497,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Burnette - Boppin' Rock-3TaUIzg-R8k.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette - Boppin' Rock-3TaUIzg-R8k.mp4?raw=true"
         },
         {
-            "filename": "Justin Timberlake - Mirrors-uuZE_IRwLNI.mp4",
             "id": "uuZE_IRwLNI",
+            "name": "Justin Timberlake - Mirrors-uuZE_IRwLNI.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Justin Timberlake - Mirrors-uuZE_IRwLNI.mp4",
             "size": 25.896953999999997,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Justin Timberlake - Mirrors-uuZE_IRwLNI.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Justin Timberlake - Mirrors-uuZE_IRwLNI.mp4?raw=true"
         },
         {
-            "filename": "John Lennon - Imagine - Lyrics-lReL3EATc7M.mp4",
             "id": "lReL3EATc7M",
+            "name": "John Lennon - Imagine - Lyrics-lReL3EATc7M.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/John Lennon - Imagine - Lyrics-lReL3EATc7M.mp4",
             "size": 8.473974,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/John Lennon - Imagine - Lyrics-lReL3EATc7M.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/John Lennon - Imagine - Lyrics-lReL3EATc7M.mp4?raw=true"
         },
         {
-            "filename": "Joy Division - Transmission [OFFICIAL MUSIC VIDEO]-6dBt3mJtgJc.mp4",
             "id": "6dBt3mJtgJc",
+            "name": "Joy Division - Transmission [OFFICIAL MUSIC VIDEO]-6dBt3mJtgJc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Joy Division - Transmission [OFFICIAL MUSIC VIDEO]-6dBt3mJtgJc.mp4",
             "size": 13.429996,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Joy Division - Transmission [OFFICIAL MUSIC VIDEO]-6dBt3mJtgJc.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Joy Division - Transmission [OFFICIAL MUSIC VIDEO]-6dBt3mJtgJc.mp4?raw=true"
         },
         {
-            "filename": "Las Malas Compa\u00f1ias-i4SbA1jG3YE.mp4",
             "id": "i4SbA1jG3YE",
+            "name": "Las Malas Compa\u00f1ias-i4SbA1jG3YE.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Las Malas Compa\u00f1ias-i4SbA1jG3YE.mp4",
             "size": 7.378136,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Las Malas Compa\u00f1ias-i4SbA1jG3YE.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Las Malas Compa\u00f1ias-i4SbA1jG3YE.mp4?raw=true"
         },
         {
-            "filename": "Jose Feliciano - La Carcel De Sing Sing-BuNTkJMmSBA.mp4",
             "id": "BuNTkJMmSBA",
+            "name": "Jose Feliciano - La Carcel De Sing Sing-BuNTkJMmSBA.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jose Feliciano - La Carcel De Sing Sing-BuNTkJMmSBA.mp4",
             "size": 7.3372779999999995,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jose Feliciano - La Carcel De Sing Sing-BuNTkJMmSBA.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jose Feliciano - La Carcel De Sing Sing-BuNTkJMmSBA.mp4?raw=true"
         },
         {
-            "filename": "Julio Iglesias  -  Como Tu-JRemay6kXg4.mp4",
             "id": "JRemay6kXg4",
+            "name": "Julio Iglesias  -  Como Tu-JRemay6kXg4.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Julio Iglesias  -  Como Tu-JRemay6kXg4.mp4",
             "size": 6.024589,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Julio Iglesias  -  Como Tu-JRemay6kXg4.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Julio Iglesias  -  Como Tu-JRemay6kXg4.mp4?raw=true"
         },
         {
-            "filename": "James Blunt - You're Beautiful (Video)-oofSnsGkops.mp4",
             "id": "oofSnsGkops",
+            "name": "James Blunt - You're Beautiful (Video)-oofSnsGkops.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/James Blunt - You're Beautiful (Video)-oofSnsGkops.mp4",
             "size": 9.782778,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/James Blunt - You're Beautiful (Video)-oofSnsGkops.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/James Blunt - You're Beautiful (Video)-oofSnsGkops.mp4?raw=true"
         },
         {
-            "filename": "Je ne t'aime plus-Qn6IBCYVQAY.mp4",
             "id": "Qn6IBCYVQAY",
+            "name": "Je ne t'aime plus-Qn6IBCYVQAY.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Je ne t'aime plus-Qn6IBCYVQAY.mp4",
             "size": 5.171069999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Je ne t'aime plus-Qn6IBCYVQAY.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Je ne t'aime plus-Qn6IBCYVQAY.mp4?raw=true"
         },
         {
-            "filename": "Joy Division - Love Will Tear Us Apart (Official Music Video)-LS7CiL8MNb0.mp4",
             "id": "LS7CiL8MNb0",
+            "name": "Joy Division - Love Will Tear Us Apart (Official Music Video)-LS7CiL8MNb0.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Joy Division - Love Will Tear Us Apart (Official Music Video)-LS7CiL8MNb0.mp4",
             "size": 11.894242,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Joy Division - Love Will Tear Us Apart (Official Music Video)-LS7CiL8MNb0.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Joy Division - Love Will Tear Us Apart (Official Music Video)-LS7CiL8MNb0.mp4?raw=true"
         },
         {
-            "filename": "Heart Of Mine-iDHqV8OsD0g.mp4",
             "id": "iDHqV8OsD0g",
+            "name": "Heart Of Mine-iDHqV8OsD0g.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Heart Of Mine-iDHqV8OsD0g.mp4",
             "size": 3.128551,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Heart Of Mine-iDHqV8OsD0g.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Heart Of Mine-iDHqV8OsD0g.mp4?raw=true"
         },
         {
-            "filename": "John Lennon - No 9 Dream-7zZsKOvXiFo.mp4",
             "id": "7zZsKOvXiFo",
+            "name": "John Lennon - No 9 Dream-7zZsKOvXiFo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/John Lennon - No 9 Dream-7zZsKOvXiFo.mp4",
             "size": 9.532053,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/John Lennon - No 9 Dream-7zZsKOvXiFo.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/John Lennon - No 9 Dream-7zZsKOvXiFo.mp4?raw=true"
         },
         {
-            "filename": "Jorge Medina - Y Me Acorde De Ti (En Vivo _ Versi\u00f3n Ac\u00fastica)-dEj3VkDa2cc.mp4",
             "id": "dEj3VkDa2cc",
+            "name": "Jorge Medina - Y Me Acorde De Ti (En Vivo _ Versi\u00f3n Ac\u00fastica)-dEj3VkDa2cc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jorge Medina - Y Me Acorde De Ti (En Vivo _ Versi\u00f3n Ac\u00fastica)-dEj3VkDa2cc.mp4",
             "size": 12.721786999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jorge Medina - Y Me Acorde De Ti (En Vivo _ Versi\u00f3n Ac\u00fastica)-dEj3VkDa2cc.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jorge Medina - Y Me Acorde De Ti (En Vivo _ Versi\u00f3n Ac\u00fastica)-dEj3VkDa2cc.mp4?raw=true"
         },
         {
-            "filename": "Jos\u00e9 Mar\u00eda Napole\u00f3n - Sin Tu Amor-g6UjHga2QY8.mp4",
             "id": "g6UjHga2QY8",
+            "name": "Jos\u00e9 Mar\u00eda Napole\u00f3n - Sin Tu Amor-g6UjHga2QY8.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jos\u00e9 Mar\u00eda Napole\u00f3n - Sin Tu Amor-g6UjHga2QY8.mp4",
             "size": 16.569743,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jos\u00e9 Mar\u00eda Napole\u00f3n - Sin Tu Amor-g6UjHga2QY8.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jos\u00e9 Mar\u00eda Napole\u00f3n - Sin Tu Amor-g6UjHga2QY8.mp4?raw=true"
         },
         {
-            "filename": "Johnny Burnette - We're Gonna Rock It-5k3FoYjjj7Q.mp4",
             "id": "5k3FoYjjj7Q",
+            "name": "Johnny Burnette - We're Gonna Rock It-5k3FoYjjj7Q.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Burnette - We're Gonna Rock It-5k3FoYjjj7Q.mp4",
             "size": 1.847071,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Burnette - We're Gonna Rock It-5k3FoYjjj7Q.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette - We're Gonna Rock It-5k3FoYjjj7Q.mp4?raw=true"
         },
         {
-            "filename": "Jamby El Favo - Ven (Video Oficial)-WYFV91Hnssw.mp4",
             "id": "WYFV91Hnssw",
+            "name": "Jamby El Favo - Ven (Video Oficial)-WYFV91Hnssw.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jamby El Favo - Ven (Video Oficial)-WYFV91Hnssw.mp4",
             "size": 14.469049,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jamby El Favo - Ven (Video Oficial)-WYFV91Hnssw.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jamby El Favo - Ven (Video Oficial)-WYFV91Hnssw.mp4?raw=true"
         },
         {
-            "filename": "The Chemical Brothers - Denmark-HlH3yazN7Ow.mp4",
             "id": "HlH3yazN7Ow",
+            "name": "The Chemical Brothers - Denmark-HlH3yazN7Ow.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/The Chemical Brothers - Denmark-HlH3yazN7Ow.mp4",
             "size": 6.298359,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/The Chemical Brothers - Denmark-HlH3yazN7Ow.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/The Chemical Brothers - Denmark-HlH3yazN7Ow.mp4?raw=true"
         },
         {
-            "filename": "Jackie Mittoo - Ghetto Organ-UDX2A0gxMjM.mp4",
             "id": "UDX2A0gxMjM",
+            "name": "Jackie Mittoo - Ghetto Organ-UDX2A0gxMjM.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jackie Mittoo - Ghetto Organ-UDX2A0gxMjM.mp4",
             "size": 7.814064999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jackie Mittoo - Ghetto Organ-UDX2A0gxMjM.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jackie Mittoo - Ghetto Organ-UDX2A0gxMjM.mp4?raw=true"
         },
         {
-            "filename": "Johnny Sorrow ~ Les 'Carrot Top' Anderson (1958) (Country & Western)-aeYRNg5oi3A.mp4",
             "id": "aeYRNg5oi3A",
+            "name": "Johnny Sorrow ~ Les 'Carrot Top' Anderson (1958) (Country & Western)-aeYRNg5oi3A.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Johnny Sorrow ~ Les 'Carrot Top' Anderson (1958) (Country & Western)-aeYRNg5oi3A.mp4",
             "size": 5.672575999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Johnny Sorrow ~ Les 'Carrot Top' Anderson (1958) (Country & Western)-aeYRNg5oi3A.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Sorrow ~ Les 'Carrot Top' Anderson (1958) (Country & Western)-aeYRNg5oi3A.mp4?raw=true"
         },
         {
-            "filename": "Juegan Con Vidas - AsTo PiTuAK-YV4fo37sfME.mp4",
             "id": "YV4fo37sfME",
+            "name": "Juegan Con Vidas - AsTo PiTuAK-YV4fo37sfME.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Juegan Con Vidas - AsTo PiTuAK-YV4fo37sfME.mp4",
             "size": 6.639625,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Juegan Con Vidas - AsTo PiTuAK-YV4fo37sfME.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Juegan Con Vidas - AsTo PiTuAK-YV4fo37sfME.mp4?raw=true"
         },
         {
-            "filename": "Jay Wheeler - La Curiosidad ft. Myke Towers (Official Video)-Q_gIYp078so.mp4",
             "id": "Q_gIYp078so",
+            "name": "Jay Wheeler - La Curiosidad ft. Myke Towers (Official Video)-Q_gIYp078so.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jay Wheeler - La Curiosidad ft. Myke Towers (Official Video)-Q_gIYp078so.mp4",
             "size": 11.282468999999999,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jay Wheeler - La Curiosidad ft. Myke Towers (Official Video)-Q_gIYp078so.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jay Wheeler - La Curiosidad ft. Myke Towers (Official Video)-Q_gIYp078so.mp4?raw=true"
         },
         {
-            "filename": "Jos\u00e9 Jos\u00e9 - Mi Vida (Cover Audio)-UTKhKGOne5w.mp4",
             "id": "UTKhKGOne5w",
+            "name": "Jos\u00e9 Jos\u00e9 - Mi Vida (Cover Audio)-UTKhKGOne5w.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/j/videos/Jos\u00e9 Jos\u00e9 - Mi Vida (Cover Audio)-UTKhKGOne5w.mp4",
             "size": 11.085934,
-            "url": "https://github.com/circuitalmynds/music_/home/alanmatzumiya/Videos/containers/j/blob/main/videos/Jos\u00e9 Jos\u00e9 - Mi Vida (Cover Audio)-UTKhKGOne5w.mp4?raw=true"
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jos\u00e9 Jos\u00e9 - Mi Vida (Cover Audio)-UTKhKGOne5w.mp4?raw=true"
         }
     ],
-    "lastupdate": "Mon Nov 21 01:06:54 2022",
-    "ready_to_push": true,
-    "total_size": 854.9321440000001
+    "total_size": 980.5499050000002
 }
