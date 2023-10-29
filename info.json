@@ -1,13 +1,6 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
-        {
-            "id": "okUVzB8K7RA",
-            "name": "Debussy  - Sonata per flauto, viola e arpa-okUVzB8K7RA.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/Debussy  - Sonata per flauto, viola e arpa-okUVzB8K7RA.mp4",
-            "size": 24.429022999999997,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Debussy  - Sonata per flauto, viola e arpa-okUVzB8K7RA.mp4?raw=true"
-        },
         {
             "id": "9OBC9p2Cxfw",
             "name": "Juan Cirerol - Sentimental (Cover a Joan Sebastian)-9OBC9p2Cxfw.mp4",
@@ -86,20 +79,6 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Joy Division - Transmission [OFFICIAL MUSIC VIDEO]-6dBt3mJtgJc.mp4?raw=true"
         },
         {
-            "id": "i7ZAS-dkIbA",
-            "name": "Julio Iglesias - Con la misma piedra-i7ZAS-dkIbA.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/Julio Iglesias - Con la misma piedra-i7ZAS-dkIbA.mp4",
-            "size": 13.291518,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Julio Iglesias - Con la misma piedra-i7ZAS-dkIbA.mp4?raw=true"
-        },
-        {
-            "id": "b3c32wBYdU0",
-            "name": "James Blunt - Same Mistake  (video)-b3c32wBYdU0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/James Blunt - Same Mistake  (video)-b3c32wBYdU0.mp4",
-            "size": 20.057171999999998,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/James Blunt - Same Mistake  (video)-b3c32wBYdU0.mp4?raw=true"
-        },
-        {
             "id": "cpleNCuWNL0",
             "name": "San Francisco El Grande (Remastered)-cpleNCuWNL0.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j/videos/San Francisco El Grande (Remastered)-cpleNCuWNL0.mp4",
@@ -135,13 +114,6 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jakeka - Asesino en la cima-LNhje27uZNA.mp4?raw=true"
         },
         {
-            "id": "APh3jv7j8sU",
-            "name": "John Mayer - Daughters (Live at the Nokia Theatre - Video - PCM Stereo)-APh3jv7j8sU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/John Mayer - Daughters (Live at the Nokia Theatre - Video - PCM Stereo)-APh3jv7j8sU.mp4",
-            "size": 18.167817,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/John Mayer - Daughters (Live at the Nokia Theatre - Video - PCM Stereo)-APh3jv7j8sU.mp4?raw=true"
-        },
-        {
             "id": "-yEAv56kC1k",
             "name": "Johnny Cash - Busted--yEAv56kC1k.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j/videos/Johnny Cash - Busted--yEAv56kC1k.mp4",
@@ -161,13 +133,6 @@
             "path": "/home/alanmatzumiya/Videos/container/j/videos/James Blunt - Goodbye My Lover (Official Music Video)-wVyggTKDcOE.mp4",
             "size": 7.803769,
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/James Blunt - Goodbye My Lover (Official Music Video)-wVyggTKDcOE.mp4?raw=true"
-        },
-        {
-            "id": "4FzFu-ze8pA",
-            "name": "The Bolshoi - Away-4FzFu-ze8pA.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/The Bolshoi - Away-4FzFu-ze8pA.mp4",
-            "size": 15.846179,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/The Bolshoi - Away-4FzFu-ze8pA.mp4?raw=true"
         },
         {
             "id": "FX1BPItDcDo",
@@ -268,13 +233,6 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette Trio - Tear It Up-4etvFlAncDo.mp4?raw=true"
         },
         {
-            "id": "qO8yfBLNVjU",
-            "name": "Beethoven Sonata No. 8 in C minor Op. 13 'Pathétique' Live - Lisitsa-qO8yfBLNVjU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/Beethoven Sonata No. 8 in C minor Op. 13 'Pathétique' Live - Lisitsa-qO8yfBLNVjU.mp4",
-            "size": 41.3883,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Beethoven Sonata No. 8 in C minor Op. 13 'Pathétique' Live - Lisitsa-qO8yfBLNVjU.mp4?raw=true"
-        },
-        {
             "id": "oofSnsGkops",
             "name": "James Blunt - You're Beautiful (Video)-oofSnsGkops.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j/videos/James Blunt - You're Beautiful (Video)-oofSnsGkops.mp4",
@@ -352,13 +310,6 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Argerich Abbado _ Ravel Piano Concerto in G-yIKn4hz0A7I.mp4?raw=true"
         },
         {
-            "id": "Ea6PxZ6G1pQ",
-            "name": "1940 Louis Levy - Walt Disney Medley (Parts 1 & 2) (instrumental)-Ea6PxZ6G1pQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/1940 Louis Levy - Walt Disney Medley (Parts 1 & 2) (instrumental)-Ea6PxZ6G1pQ.mp4",
-            "size": 9.577347,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/1940 Louis Levy - Walt Disney Medley (Parts 1 & 2) (instrumental)-Ea6PxZ6G1pQ.mp4?raw=true"
-        },
-        {
             "id": "ACvS51cCbH4",
             "name": "José María Napoleón - Amor De Habitación-ACvS51cCbH4.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j/videos/José María Napoleón - Amor De Habitación-ACvS51cCbH4.mp4",
@@ -378,13 +329,6 @@
             "path": "/home/alanmatzumiya/Videos/container/j/videos/#9 DREAM. (Ultimate Mix 2020) John Lennon w The Plastic Ono Nuclear Band (official music video 4K)-7zZsKOvXiFo.mp4",
             "size": 6.718933,
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/#9 DREAM. (Ultimate Mix 2020) John Lennon w The Plastic Ono Nuclear Band (official music video 4K)-7zZsKOvXiFo.mp4?raw=true"
-        },
-        {
-            "id": "vPTT3CBM8_s",
-            "name": "Julio Iglesias - A flor de piel-vPTT3CBM8_s.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/Julio Iglesias - A flor de piel-vPTT3CBM8_s.mp4",
-            "size": 9.022703,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Julio Iglesias - A flor de piel-vPTT3CBM8_s.mp4?raw=true"
         },
         {
             "id": "7COchn_j6jM",
@@ -443,20 +387,6 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jose Jose Gavilan o Paloma-nL4yaQNhOnc.mp4?raw=true"
         },
         {
-            "id": "wVyggTKDcOE",
-            "name": "James Blunt - Goodbye My Lover [OFFICIAL VIDEO]-wVyggTKDcOE.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/James Blunt - Goodbye My Lover [OFFICIAL VIDEO]-wVyggTKDcOE.mp4",
-            "size": 10.761249,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/James Blunt - Goodbye My Lover [OFFICIAL VIDEO]-wVyggTKDcOE.mp4?raw=true"
-        },
-        {
-            "id": "lReL3EATc7M",
-            "name": "Imagine - John Lennon _ 8D Audio. Use headphones.-lReL3EATc7M.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/Imagine - John Lennon _ 8D Audio. Use headphones.-lReL3EATc7M.mp4",
-            "size": 10.935939999999999,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Imagine - John Lennon _ 8D Audio. Use headphones.-lReL3EATc7M.mp4?raw=true"
-        },
-        {
             "id": "Tsd1hINrkbU",
             "name": "Conjunto Primavera - Empaca Tus Cosas-Tsd1hINrkbU.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j/videos/Conjunto Primavera - Empaca Tus Cosas-Tsd1hINrkbU.mp4",
@@ -471,18 +401,18 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Jamby El Favo - Ven (Video Oficial)-WYFV91Hnssw.mp4?raw=true"
         },
         {
+            "id": "qO8yfBLNVjU",
+            "name": "Beethoven Sonata No. 8 in C minor Op. 13 ＂Pathétique＂ Live - Lisitsa [qO8yfBLNVjU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j/videos/Beethoven Sonata No. 8 in C minor Op. 13 ＂Pathétique＂ Live - Lisitsa [qO8yfBLNVjU].mp4",
+            "size": 27.874758,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Beethoven Sonata No. 8 in C minor Op. 13 ＂Pathétique＂ Live - Lisitsa [qO8yfBLNVjU].mp4?raw=true"
+        },
+        {
             "id": "9FB_y_Z_uBM",
             "name": "José José - Te Quiero Tal Como Eres (Cover Audio)-9FB_y_Z_uBM.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j/videos/José José - Te Quiero Tal Como Eres (Cover Audio)-9FB_y_Z_uBM.mp4",
             "size": 7.452601,
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/José José - Te Quiero Tal Como Eres (Cover Audio)-9FB_y_Z_uBM.mp4?raw=true"
-        },
-        {
-            "id": "aZAA73tWdoQ",
-            "name": "Julio Iglesias (La Vida Sigue Igual)-aZAA73tWdoQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/Julio Iglesias (La Vida Sigue Igual)-aZAA73tWdoQ.mp4",
-            "size": 9.156953,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Julio Iglesias (La Vida Sigue Igual)-aZAA73tWdoQ.mp4?raw=true"
         },
         {
             "id": "i4SbA1jG3YE",
@@ -506,11 +436,11 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Cash - Folsom Prison Blues - Live at San Quentin (Good sound quality)-wG0fS4DoGUc.mp4?raw=true"
         },
         {
-            "id": "7zZsKOvXiFo",
-            "name": "John Lennon - No 9 Dream-7zZsKOvXiFo.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/John Lennon - No 9 Dream-7zZsKOvXiFo.mp4",
-            "size": 9.532053,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/John Lennon - No 9 Dream-7zZsKOvXiFo.mp4?raw=true"
+            "id": "Ea6PxZ6G1pQ",
+            "name": "1940 Louis Levy - Walt Disney Medley (Parts 1 & 2) (instrumental) [Ea6PxZ6G1pQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j/videos/1940 Louis Levy - Walt Disney Medley (Parts 1 & 2) (instrumental) [Ea6PxZ6G1pQ].mp4",
+            "size": 9.577347,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/1940 Louis Levy - Walt Disney Medley (Parts 1 & 2) (instrumental) [Ea6PxZ6G1pQ].mp4?raw=true"
         },
         {
             "id": "5k3FoYjjj7Q",
@@ -525,6 +455,13 @@
             "path": "/home/alanmatzumiya/Videos/container/j/videos/Johnny Burnette - Wampus Cat-AEA7WtrGRTI.mp4",
             "size": 2.081296,
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette - Wampus Cat-AEA7WtrGRTI.mp4?raw=true"
+        },
+        {
+            "id": "28t_ojI4TJM",
+            "name": "Isle of Capri Barber Chis 1994 [28t_ojI4TJM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j/videos/Isle of Capri Barber Chis 1994 [28t_ojI4TJM].mp4",
+            "size": 10.136806,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Isle of Capri Barber Chis 1994 [28t_ojI4TJM].mp4?raw=true"
         },
         {
             "id": "JRemay6kXg4",
@@ -548,25 +485,11 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Juegas al palé-e0FgX-mrgGY.mp4?raw=true"
         },
         {
-            "id": "28t_ojI4TJM",
-            "name": "Isle of Capri Barber Chis 1994-28t_ojI4TJM.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/Isle of Capri Barber Chis 1994-28t_ojI4TJM.mp4",
-            "size": 10.136806,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Isle of Capri Barber Chis 1994-28t_ojI4TJM.mp4?raw=true"
-        },
-        {
             "id": "lS3STNHQ3Ac",
             "name": "Joe Bonamassa Official - 'Let Me Love You Baby' - British Blues Explosion Live-lS3STNHQ3Ac.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j/videos/Joe Bonamassa Official - 'Let Me Love You Baby' - British Blues Explosion Live-lS3STNHQ3Ac.mp4",
             "size": 25.68358,
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Joe Bonamassa Official - 'Let Me Love You Baby' - British Blues Explosion Live-lS3STNHQ3Ac.mp4?raw=true"
-        },
-        {
-            "id": "oofSnsGkops",
-            "name": "James Blunt - You're Beautiful (Official Music Video) [4K]-oofSnsGkops.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/James Blunt - You're Beautiful (Official Music Video) [4K]-oofSnsGkops.mp4",
-            "size": 11.586477,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/James Blunt - You're Beautiful (Official Music Video) [4K]-oofSnsGkops.mp4?raw=true"
         },
         {
             "id": "LS7CiL8MNb0",
@@ -653,13 +576,6 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/The Bolshoi - A Way HD-4FzFu-ze8pA.mp4?raw=true"
         },
         {
-            "id": "Qn6IBCYVQAY",
-            "name": "Je ne t'aime plus-Qn6IBCYVQAY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/Je ne t'aime plus-Qn6IBCYVQAY.mp4",
-            "size": 5.171069999999999,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Je ne t'aime plus-Qn6IBCYVQAY.mp4?raw=true"
-        },
-        {
             "id": "oObpxzkul3k",
             "name": "José José - Lo Pasado Pasado-oObpxzkul3k.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j/videos/José José - Lo Pasado Pasado-oObpxzkul3k.mp4",
@@ -667,11 +583,11 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/José José - Lo Pasado Pasado-oObpxzkul3k.mp4?raw=true"
         },
         {
-            "id": "uuZE_IRwLNI",
-            "name": "Justin Timberlake - Mirrors-uuZE_IRwLNI.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/Justin Timberlake - Mirrors-uuZE_IRwLNI.mp4",
-            "size": 25.896953999999997,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Justin Timberlake - Mirrors-uuZE_IRwLNI.mp4?raw=true"
+            "id": "okUVzB8K7RA",
+            "name": "Debussy ： Sonata per flauto, viola e arpa [okUVzB8K7RA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j/videos/Debussy ： Sonata per flauto, viola e arpa [okUVzB8K7RA].mp4",
+            "size": 24.429022999999997,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Debussy ： Sonata per flauto, viola e arpa [okUVzB8K7RA].mp4?raw=true"
         },
         {
             "id": "bbrztQ6IFzM",
@@ -695,13 +611,6 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Joan Sebastian Verdad Que Duele-cqvgTJWEuec.mp4?raw=true"
         },
         {
-            "id": "JRemay6kXg4",
-            "name": "COMO TU   - Julio Iglesias-JRemay6kXg4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/COMO TU   - Julio Iglesias-JRemay6kXg4.mp4",
-            "size": 7.106465,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/COMO TU   - Julio Iglesias-JRemay6kXg4.mp4?raw=true"
-        },
-        {
             "id": "YOapNGdzwKg",
             "name": "Jackie Mittoo _ Too Late To Turn Back Now-YOapNGdzwKg.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j/videos/Jackie Mittoo _ Too Late To Turn Back Now-YOapNGdzwKg.mp4",
@@ -723,20 +632,6 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Juegan Con Vidas - AsTo PiTuAK-YV4fo37sfME.mp4?raw=true"
         },
         {
-            "id": "ki6GEcteLao",
-            "name": "Joan Manuel Serrat - Esos locos bajitos-ki6GEcteLao.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/Joan Manuel Serrat - Esos locos bajitos-ki6GEcteLao.mp4",
-            "size": 13.445718999999999,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Joan Manuel Serrat - Esos locos bajitos-ki6GEcteLao.mp4?raw=true"
-        },
-        {
-            "id": "IOrWZk3c360",
-            "name": "Johnny Burnette - Your Baby Blue Eyes-IOrWZk3c360.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/j/videos/Johnny Burnette - Your Baby Blue Eyes-IOrWZk3c360.mp4",
-            "size": 6.931184,
-            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette - Your Baby Blue Eyes-IOrWZk3c360.mp4?raw=true"
-        },
-        {
             "id": "CBZM8uisl7U",
             "name": "Johnny Burnette - Crazy Legs-CBZM8uisl7U.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j/videos/Johnny Burnette - Crazy Legs-CBZM8uisl7U.mp4",
@@ -744,5 +639,5 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette - Crazy Legs-CBZM8uisl7U.mp4?raw=true"
         }
     ],
-    "total_size": 1093.3480040000002
+    "total_size": 892.9250090000002
 }
