@@ -219,6 +219,13 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Julio Iglesias - La vida sigue igual-aZAA73tWdoQ.mp4?raw=true"
         },
         {
+            "id": "WUElr_1D038",
+            "name": "Nostalgia Cubana - Rita Montaner - El Manisero [WUElr_1D038].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j/videos/Nostalgia Cubana - Rita Montaner - El Manisero [WUElr_1D038].mp4",
+            "size": 7.499168999999999,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Nostalgia Cubana - Rita Montaner - El Manisero [WUElr_1D038].mp4?raw=true"
+        },
+        {
             "id": "3TaUIzg-R8k",
             "name": "Johnny Burnette - Boppin' Rock-3TaUIzg-R8k.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j/videos/Johnny Burnette - Boppin' Rock-3TaUIzg-R8k.mp4",
@@ -343,6 +350,13 @@
             "path": "/home/alanmatzumiya/Videos/container/j/videos/John Mayer - Gravity [HD]-Fo4746XZgw8.mp4",
             "size": 38.570537,
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/John Mayer - Gravity [HD]-Fo4746XZgw8.mp4?raw=true"
+        },
+        {
+            "id": "GuoIJA7_Tm0",
+            "name": "Ugly Beauty [GuoIJA7_Tm0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j/videos/Ugly Beauty [GuoIJA7_Tm0].mp4",
+            "size": 33.618218,
+            "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Ugly Beauty [GuoIJA7_Tm0].mp4?raw=true"
         },
         {
             "id": "2axZczJz-qg",
@@ -639,5 +653,5 @@
             "url": "https://github.com/circuitalmynds/music_j/blob/main/videos/Johnny Burnette - Crazy Legs-CBZM8uisl7U.mp4?raw=true"
         }
     ],
-    "total_size": 892.9250090000002
+    "total_size": 934.0423960000003
 }
